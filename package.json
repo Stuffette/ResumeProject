@@ -1,0 +1,13 @@
+{
+  "name": "ResumeProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Stuffette/ResumeProject",
+  "author": "<ilovetolearn@ymail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
